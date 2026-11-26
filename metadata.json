@@ -1,0 +1,6 @@
+{
+  "name": "Uzbekistan — Discover the Silk Road",
+  "description": "Explore the ancient Silk Road cities, living cultural traditions, national cuisine, interactive photography archive, and map of Uzbekistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
